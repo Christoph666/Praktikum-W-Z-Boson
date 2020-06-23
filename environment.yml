@@ -1,0 +1,11 @@
+name: exphys6
+channels:
+  - conda-forge
+dependencies:
+  - numpy=1.17.3
+  - scipy=1.4.1
+  - matplotlib=3.2.1
+  - jupyterlab=1.2.4
+  - nodejs=13.6.0
+  - ipympl=0.4.1 # Enables interactive plots 
+  - sympy=1.5.1
